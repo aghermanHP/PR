@@ -1,22 +1,34 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to BookingYourself"/>
+    <HeaderBymai class="header-position"/>
+    <MainPage/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MainPage from './components/MainPage.vue';
+import HeaderBymai from './components/header_footer/header'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    MainPage,
+    HeaderBymai
+  },
+  data(){
+  return{
+  }
   }
 }
 </script>
 
 <style>
+.header-position{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  }
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

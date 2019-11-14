@@ -1,14 +1,16 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <img alt="Vue logo" src="../assets/logo.png">
+    <HomeCarusel/>
   </div>
 </template>
 
 <script>
+import HomeCarusel from './HomeCarusel'
 export default {
-  name: 'HelloWorld',
-  props: {
-    msg: String
+  name: 'MainPage',
+  components:{
+    HomeCarusel
   }
 }
 </script>
