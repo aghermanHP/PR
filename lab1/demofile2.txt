@@ -1,0 +1,1508 @@
+HTTP/1.0 200 OK
+Date: Fri, 24 Apr 2020 11:01:43 GMT
+Server: Apache
+Cache-Control: private, must-revalidate
+pragma: no-cache
+expires: -1
+Set-Cookie: XSRF-TOKEN=eyJpdiI6ImpwUDNrWFRuVWU1b3F6Q2ljK01cLzR3PT0iLCJ2YWx1ZSI6ImFWRGpiMXdQNVBvNVR6TDFualhDZThxVDRDZ2xQTzlQR09QbFdHdFNXenAwV1pwQTQwczVKRUtOS0xNb0szbXlTMlhBRTNUR01ZS2xVekx0RVNlanlnPT0iLCJtYWMiOiI3YWE4NGRjOTI2YzE3ZGYzMzBmMzUyMzgyYjU0YmViMjM3MzA0YjQwZGQyNWFmNTJlNTUxYmYzMmFhZThlNTZiIn0%3D; expires=Fri, 24-Apr-2020 13:01:43 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6IjNzQWl6Um02OEhha0hwcHJSNktEOWc9PSIsInZhbHVlIjoiRHdRMkxKZlZZUXB0cnJCMU4zNUt2QVJycGk4R3kwY0prRGxwNkltRDg0NjZYZ2MxMDMrMjl0ZkdJZWVWWDl2WjdFUkRsaTZwMGxQakRpcFcrVStWdEE9PSIsIm1hYyI6IjdjN2I5OGQzMWMzODBjNzk4OGEyZWFiM2U4MDQ1YjczNzU2NGU5YzczNjdiYWNlN2QzNjFiYTRmODgzZjBjNzUifQ%3D%3D; expires=Fri, 01-May-2020 09:40:43 GMT; Max-Age=599940; path=/; httponly
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Moldtelecom</title>
+  
+    <meta name="description" content="Moldtelecom este operatorul national de telecomunicatii in domeniul serviciilor Internet, Televiziune, Telefonie mobila si Internet mobil." />
+  
+    <meta name="keywords" content="Internet, televiziune, telefon, mobil, sms, abonament, prepay, web sms, telefoane, modem, 3G, 4G" />
+  
+  <!--<script type="text/javascript" src="/js/jquery-min.js"></script>-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script>var lang = "ro";</script>
+  
+
+  <link rel="stylesheet" href="http://unite.md/css/index_style.css?v=19" type="text/css" charset="utf-8"/>
+  <link rel="stylesheet" href="http://unite.md/css/resp_style.css?v=21" type="text/css" charset="utf-8"/>
+  <link rel="stylesheet" href="http://unite.md/css/slide.css?v=5" type="text/css" charset="utf-8"/>
+  <script type="text/javascript" src="/js/swipe4.js?v=5"></script>
+  <!--<script type="text/javascript" src="/js/fingerprint.js"></script>-->
+  <script async type="text/javascript" src="/js/public_script.js?v=27"></script>
+  <link rel="icon" type="image/png" href="/moldtelecom-logo.png">
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <link rel="stylesheet" href="/css/font_style.css" as="style" type="text/css" charset="utf-8">
+  <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5B25HR8');</script>
+  <!-- End Google Tag Manager -->
+
+</head>
+<body>
+
+  <style>
+  .menu_items .item:last-child .title {
+    color: #ef5b78;
+  }
+  </style>
+
+  <!-- Rating Mail.ru counter -->
+  <script type="text/javascript">
+  var _tmr = window._tmr || (window._tmr = []);
+  _tmr.push({id: "3163773", type: "pageView", start: (new Date()).getTime()});
+  (function (d, w, id) {
+    if (d.getElementById(id)) return;
+    var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+    ts.src = "https://top-fwz1.mail.ru/js/code.js";
+    var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+    if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+  })(document, window, "topmailru-code");
+  </script><noscript><div>
+  <img src="https://top-fwz1.mail.ru/counter?id=3163773;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+  </div></noscript>
+  <!-- //Rating Mail.ru counter -->
+
+
+      <div class="ask_news" style="display: none;">
+      <div class="container">
+        <div class="text">
+          <img class="lazy_img" src="" lazy="/images/newsletter.png"/>
+          <div class="nl_text">
+            Vrei să fii la curent cu ultimele noutăţi şi promoţii de la Moldtelecom?<br>Abonează-te acum!
+          </div>
+        </div>
+        <div class="ask_news_button acc">Acceptă</div>
+        <div class="ask_news_button rej">Renunță</div>
+        <div class="close" style="display: none;"></div>
+      </div>
+    </div>
+    <div class="news_form_bg inline">
+      <div class="news_form_container" action="/add_mail" method="post">
+        <div class="news_form_top">
+          <img class="lazy_img" src="" lazy="/images/newsletter.png"/>
+          <div class="text">
+            Abonează-te la Newsletter<br>pentru cele mai noi oferte!
+          </div>
+          <div class="close"></div>
+        </div>
+        <input class="news_mail" name="mail" pattern="[a-zA-Z0-9]+[a-z0-9._%+-]+[a-zA-Z0-9]+@[a-z0-9.-]+\.[a-z]{2,4}$" placeholder="E-mail">
+        <input class="token" type="hidden" name="_token" value="0hFaCWdMu41d66ps2epcRmHT3UQqvbj60o6FLtYx">
+        <div class="news_submit" >Mă abonez</div>
+      </div>
+    </div>
+  
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5B25HR8"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+
+  <div class="top_bar_holder">
+    <div class="top_bar">
+      <div class="top_bar_left">
+        <a class="top_bar_item" href="/ro/personal" id="personal">PERSONAL</a>
+        <a class="top_bar_item" href="/ro/business" id="business">BUSINESS</a>
+      </div>
+      <div class="top_bar_right">
+        <a href="https://contulmeu.moldtelecom.md/SelfCare/pages/login/login.faces">
+          <div class="top_bar_item">
+            <div class="bg-cont_home"></div>
+            MYMoldtelecom
+          </div>
+        </a>
+        <a href="https://achitari.moldtelecom.md/Pay">
+          <div class="top_bar_item">
+            <div class="bg-achi_home"></div>
+            Re&icirc;ncărcare cont
+          </div>
+        </a>
+        <a href="/ro/magazine">
+          <div class="top_bar_item">
+            <div class="bg-mag_home"></div>
+            Magazine
+          </div>
+        </a>
+        <a href="/ro/asistenta">
+          <div class="top_bar_item">
+            <div class="bg-con_icon"></div>
+            Asistență
+          </div>
+        </a>
+
+                              <a class="lang_switch" href="/ru/">
+                            <div class="top_bar_item">
+            <div class="bg-lang_home"></div>
+            ru
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="main_top_space"></div>
+
+  <div class="top_menu_container">
+    <div class="menu_holder shadow1">
+
+                                <a href="/" class="top_logo2 logo_bg"></a>
+              
+      <div class="close"></div>
+      <div class="menu_items">
+                              <div class="item">
+              <div class="title">
+                Servicii
+              </div>
+                            <div class="top_submenu shadow1">
+                                  <div class="item">
+                    <div class="title" submenu_name="Internet fix">
+                      Internet fix
+                    </div>
+                    <div class="items">
+                                              <a class="subm_item" href="/Internet" pageid="73">
+                          Internet Fix
+                        </a>
+                                              <a class="subm_item" href="/Abonamente-Internet" pageid="57">
+                          Abonamente Internet
+                        </a>
+                                              <a class="subm_item" href="/Abonamente-TV-Internet" pageid="28">
+                          Abonamente Internet+TV
+                        </a>
+                                              <a class="subm_item" href="/Optiuni-Internet" pageid="62">
+                          Opțiuni
+                        </a>
+                                              <a class="subm_item" href="/files/MTC_ghid_safe%20web%283%29.pdf" pageid="">
+                          Safe Web
+                        </a>
+                                              <a class="subm_item" href="/echipamente-wifi" pageid="187">
+                          Echipamente Wi-Fi
+                        </a>
+                                          </div>
+                  </div>
+                                  <div class="item">
+                    <div class="title" submenu_name="Televiziune">
+                      Televiziune
+                    </div>
+                    <div class="items">
+                                              <a class="subm_item" href="/Televiziune" pageid="26">
+                          Televiziune Moldtelecom
+                        </a>
+                                              <a class="subm_item" href="/Abonamente-Televiziune" pageid="35">
+                          Abonamente TV
+                        </a>
+                                              <a class="subm_item" href="/Abonamente-TV-Internet" pageid="28">
+                          Abonamente TV+Internet
+                        </a>
+                                              <a class="subm_item" href="/SmartTV" pageid="54">
+                          Televiziune Smart
+                        </a>
+                                              <a class="subm_item" href="/canale-TV" pageid="6">
+                          Canale TV
+                        </a>
+                                              <a class="subm_item" href="/tv-optiuni" pageid="63">
+                          Opțiuni &amp; pachete tematice
+                        </a>
+                                              <a class="subm_item" href="/TV-in-rate" pageid="168">
+                          TV &icirc;n rate
+                        </a>
+                                          </div>
+                  </div>
+                                  <div class="item">
+                    <div class="title" submenu_name="Telefonie Mobilă">
+                      Telefonie Mobilă
+                    </div>
+                    <div class="items">
+                                              <a class="subm_item" href="/Telefonie-Mobila" pageid="70">
+                          Telefonie Mobilă
+                        </a>
+                                              <a class="subm_item" href="/Portare" pageid="85">
+                          Portare
+                        </a>
+                                              <a class="subm_item" href="/Abonament-Unite" pageid="55">
+                          Abonamente Telefonie mobilă
+                        </a>
+                                              <a class="subm_item" href="/Optiuni-telefonie-mobila" pageid="33">
+                          Opțiuni &amp; servicii
+                        </a>
+                                              <a class="subm_item" href="/roaming" pageid="3">
+                          Roaming
+                        </a>
+                                              <a class="subm_item" href="/apeluri-internationale" pageid="4">
+                          Apeluri internaționale
+                        </a>
+                                              <a class="subm_item" href="/sms-100-abonament" pageid="49">
+                          SMS Service 100
+                        </a>
+                                          </div>
+                  </div>
+                                  <div class="item">
+                    <div class="title" submenu_name="Internet Mobil">
+                      Internet Mobil
+                    </div>
+                    <div class="items">
+                                              <a class="subm_item" href="/Internet-mobil" pageid="69">
+                          Internet mobil
+                        </a>
+                                              <a class="subm_item" href="/Abonamente-Internet-mobil" pageid="64">
+                          Abonamente Internet mobil
+                        </a>
+                                              <a class="subm_item" href="/optiuni-internet-mobil" pageid="32">
+                          Opțiuni 
+                        </a>
+                                          </div>
+                  </div>
+                                  <div class="item">
+                    <div class="title" submenu_name="Telefonie fixă">
+                      Telefonie fixă
+                    </div>
+                    <div class="items">
+                                              <a class="subm_item" href="/Telefonie-Fixa" pageid="59">
+                          Telefonie fixă
+                        </a>
+                                              <a class="subm_item" href="/Abonamente-telefonie-fixa" pageid="60">
+                          Abonamente telefonie fixa
+                        </a>
+                                              <a class="subm_item" href="/Optiuni-retea-fixa" pageid="61">
+                          Opțiuni &amp; servicii de rețea
+                        </a>
+                                              <a class="subm_item" href="/Fax-to-email" pageid="89">
+                          Fax to E-mail
+                        </a>
+                                              <a class="subm_item" href="/Telegraf" pageid="99">
+                          Telegraf
+                        </a>
+                                          </div>
+                  </div>
+                                  <div class="item">
+                    <div class="title" submenu_name="Servicii integrate">
+                      Servicii integrate
+                    </div>
+                    <div class="items">
+                                              <a class="subm_item" href="/Internet+TV+Mobil" pageid="75">
+                          Internet + TV + Mobil
+                        </a>
+                                              <a class="subm_item" href="/Calculator" pageid="76">
+                          Creează-ți propriul abonament
+                        </a>
+                                          </div>
+                  </div>
+                                  <div class="item">
+                    <div class="title" submenu_name="Cartela Unite Prepay">
+                      Cartela Unite Prepay
+                    </div>
+                    <div class="items">
+                                              <a class="subm_item" href="/prepay-cartela" pageid="7">
+                          Unite Prepay
+                        </a>
+                                              <a class="subm_item" href="/prepay-cart-options" pageid="34">
+                          Opțiuni
+                        </a>
+                                              <a class="subm_item" href="/sms-100-prepay" pageid="50">
+                          SMS Service 100
+                        </a>
+                                              <a class="subm_item" href="/retele-sociale-gratuit" pageid="48">
+                          Rețele Sociale Gratuit
+                        </a>
+                                          </div>
+                  </div>
+                              </div>
+                          </div>
+                                        <div class="item">
+              <div class="title">
+                Soluții Smart
+              </div>
+                              <div class="sub_aplication top_submenu">
+                  <div class="container">
+                    <div class="sub_app_holder">
+                                            <a href="/MyMoldtelecom" class="item">
+                        <div >
+                          <img class="sub_app_icon" src="" lazy="/images/app_mymtc.jpg"/>
+                          <div class="title" submenu_name="MyMoldtelecom">
+                            MyMoldtelecom
+                          </div>
+                          <div class="descript">
+                            Gestionează simplu și rapid serviciile Unite și Moldtelecom direct de pe smartphone
+                          </div>
+                          <div class="details">
+                            Află mai mult
+                          </div>
+                        </div>
+                      </a>
+                                            <a href="/CloudCamera" class="item">
+                        <div >
+                          <img class="sub_app_icon" src="" lazy="/images/app_cloud.jpg"/>
+                          <div class="title" submenu_name="CloudCamera">
+                            CloudCamera
+                          </div>
+                          <div class="descript">
+                            Soluții inteligente pentru siguranța familiei și a bunurilor tale
+                          </div>
+                          <div class="details">
+                            Află mai mult
+                          </div>
+                        </div>
+                      </a>
+                                            <a href="/SmartTV" class="item">
+                        <div >
+                          <img class="sub_app_icon" src="" lazy="/images/app_smarttv.jpg"/>
+                          <div class="title" submenu_name="Smart TV">
+                            Smart TV
+                          </div>
+                          <div class="descript">
+                            Urmărești canalele TV preferate cu aplicația Smart TV acum și pe Android
+                          </div>
+                          <div class="details">
+                            Află mai mult
+                          </div>
+                        </div>
+                      </a>
+                                            <a href="/biblioteca-megogo" class="item">
+                        <div >
+                          <img class="sub_app_icon" src="" lazy="/images/app_megogo.jpg"/>
+                          <div class="title" submenu_name="Megogo">
+                            Megogo
+                          </div>
+                          <div class="descript">
+                            Video bibliotecă cu peste 3500 de filme și seriale pe care le savurezi acasă
+                          </div>
+                          <div class="details">
+                            Află mai mult
+                          </div>
+                        </div>
+                      </a>
+                                            <a href="/Multiscreen" class="item">
+                        <div >
+                          <img class="sub_app_icon" src="" lazy="/images/app_multiscreen.jpg"/>
+                          <div class="title" submenu_name="Multiscreen">
+                            Multiscreen
+                          </div>
+                          <div class="descript">
+                            Acum fiecare are televizorul său. Transformă orice ecran de pe orice dispozitiv &icirc;n televizor
+                          </div>
+                          <div class="details">
+                            Află mai mult
+                          </div>
+                        </div>
+                      </a>
+                                            <a href="http://talk.unite.md/" class="item">
+                        <div >
+                          <img class="sub_app_icon" src="" lazy="/images/talk_icon.jpg"/>
+                          <div class="title" submenu_name="UniteTalk">
+                            UniteTalk
+                          </div>
+                          <div class="descript">
+                            Comunică din orice colț al lumii la tarife de acasă! Aplicaţie disponibilă pe orice gadget
+                          </div>
+                          <div class="details">
+                            Află mai mult
+                          </div>
+                        </div>
+                      </a>
+                                          </div>
+                  </div>
+                  <div class="arrow left"></div>
+                  <div class="arrow"></div>
+                </div>
+                          </div>
+                                        <a class="item"  href="/Portare">
+              <div class="title">
+                Treci la Unit&eacute;
+              </div>
+            </a>
+                                        <a class="item"  href="/phones">
+              <div class="title">
+                Dispozitive
+              </div>
+            </a>
+                                        <a class="item"  href="/ro/personal/Calculator">
+              <div class="title">
+                Comandă Online
+              </div>
+            </a>
+                        </div>
+      <div class="menu_icon">
+        <div class="menu_icon_bar"></div>
+        <div class="menu_icon_bar"></div>
+        <div class="menu_icon_bar"></div>
+      </div>
+      <input name="search" type="name" class="search_icon" />
+    </div>
+  </div>
+
+
+  
+  
+<link rel="stylesheet" href="http://unite.md/css/slide_phone.css?v=5" type="text/css" charset="utf-8"/>
+
+<style>
+
+.main_top_space {
+  margin-top: 63px;
+}
+
+</style>
+
+<div class="ches_pop" style="display: none;">
+  <div class="title">Opinia ta contează!</div>
+  <p>Te rugăm să completezi următorul chestionar pentru a ne ajuta să &icirc;ți oferim o experiență tot mai plăcută &icirc;n utilizarea serviciilor noastre.</p>
+  <div class="details open_chest int_bg">&Icirc;ncepe</div>
+  <div class="close"></div>
+</div>
+
+<a href="/ro/personal/news/245" class="stai_acasa">
+  <div class="container">
+    #StaiAcasă și urmărește lecții video la canale TV. Împreună susținem continuitatea procesului educațional!
+  </div>
+</a>
+
+<div class="slider_holder main_slider">
+  <div class="slide_container">
+    <div class="slider_box">
+      <div class="slider_container">
+                  <div class="slide" ondragstart="return false;" draggable="false">
+            <a class="slide_link" href="https://moldtelecom.md/ro/personal/news/245"  >
+              <img class="lazy slide_img slide_resp" src="" wide="/images/1680x450-Rpm.jpg" narrow="/images/650x488-Rom(4).jpg"/>
+            </a>
+          </div>
+                  <div class="slide" ondragstart="return false;" draggable="false">
+            <a class="slide_link" href="/ro/personal/news/244"  >
+              <img class="lazy slide_img slide_resp" src="" wide="/images/Pentru-abonatii-internet-fix-1680x450-Ro(2).jpg" narrow="/images/Pentru-abonatii-internet-fix-650x488-RO.jpg"/>
+            </a>
+          </div>
+                  <div class="slide" ondragstart="return false;" draggable="false">
+            <a class="slide_link" href="https://www.moldtelecom.md/Abonamente-TV-Internet"  >
+              <img class="lazy slide_img slide_resp" src="" wide="/images/1680x450.jpg" narrow="/images/650x488.jpg"/>
+            </a>
+          </div>
+                  <div class="slide" ondragstart="return false;" draggable="false">
+            <a class="slide_link" href="https://moldtelecom.md/Portare"  >
+              <img class="lazy slide_img slide_resp" src="" wide="/images/Top_slide_Unite-Spring_Voce-KV_2_1680x450(1).jpg" narrow="/images/Banner_Top_Slyde_650x488_ro.jpg"/>
+            </a>
+          </div>
+                  <div class="slide" ondragstart="return false;" draggable="false">
+            <a class="slide_link" href="https://moldtelecom.md/Abonamente-Internet-mobil"  >
+              <img class="lazy slide_img slide_resp" src="" wide="/images/Unite_Date_web_1680x450_ro.jpg" narrow="/images/Unite_Date_web_650x488_ro.jpg"/>
+            </a>
+          </div>
+                  <div class="slide" ondragstart="return false;" draggable="false">
+            <a class="slide_link" href="/stai-acasa"  >
+              <img class="lazy slide_img slide_resp" src="" wide="/images/Bucurate--de-timpul-petrecut-acasa.jpg" narrow="/images/650x488-Bucarate-de.jpg"/>
+            </a>
+          </div>
+                  <div class="slide" ondragstart="return false;" draggable="false">
+            <a class="slide_link" href="https://www.moldtelecom.md/Abonamente-Internet"  >
+              <img class="lazy slide_img slide_resp" src="" wide="/images/1680x450%20Rom(2).jpg" narrow="/images/650x488%20Rom(2).jpg"/>
+            </a>
+          </div>
+                  <div class="slide" ondragstart="return false;" draggable="false">
+            <a class="slide_link" href="https://moldtelecom.md/Abonament-Unite"  >
+              <img class="lazy slide_img slide_resp" src="" wide="/images/Top_slide_Unite-Spring_Voce-KV_2_1680x450_1_ro.jpg" narrow="/images/2020-Unite-Spring_Voce-KVV_650x488_ro_1(1).jpg"/>
+            </a>
+          </div>
+              </div>
+    </div>
+  </div>
+  <div class="slide_bullets">
+          <div class="item">Educație Online</div>
+          <div class="item">Ofertă specială</div>
+          <div class="item">Internet + TV</div>
+          <div class="item">Portare</div>
+          <div class="item">Internet Mobil</div>
+          <div class="item">#StaiAcasă</div>
+          <div class="item">Internet</div>
+          <div class="item">Telefonia mobilă</div>
+      </div>
+  <table class="slide_names logo_bg">
+    <tr>
+              <td class="item">Educație Online</td>
+              <td class="item">Ofertă specială</td>
+              <td class="item">Internet + TV</td>
+              <td class="item">Portare</td>
+              <td class="item">Internet Mobil</td>
+              <td class="item">#StaiAcasă</td>
+              <td class="item">Internet</td>
+              <td class="item">Telefonia mobilă</td>
+          </tr>
+
+  </table>
+  <div class="buttons_container">
+    <div class="prev_button">
+      <div class="left slide_a_l"><div></div></div>
+    </div>
+    <div class="next_button">
+      <div class="right slide_a_r" style=""><div></div></div>
+    </div>
+  </div>
+</div>
+
+
+
+<script>
+$(window).ready(function () {
+
+  var slider = new Object();
+  //create_slide (item, slider_box_object, slides_per_page = 1, animation_time = 200, animation_interval = 3000, autoplay = 1/0)
+  create_slide(slider, $('.main_slider'), 1, 200, 5000, true, '');
+
+
+  $('.main_slider .slider_box').scroll(function() {
+    clearTimeout($.data(this, 'scrollTimer'));
+    $.data(this, 'scrollTimer', setTimeout(function() {
+      test_resp();
+    }, 100));
+  })
+
+  test_resp();
+
+  function test_resp() {
+    $('html .main_slider .slide').each(function() {
+      if($('.main_slider .lazy').length > 0) {
+        if(Math.abs($(this).position().left) <= parseInt($(window).width())) {
+          if ($('body').width() < 769) {
+            $(this).find('.lazy').attr('src',$(this).find('.lazy').attr('narrow')).removeClass('lazy').addClass('resp_imp');
+          } else {
+            $(this).find('.lazy').attr('src',$(this).find('.lazy').attr('wide')).removeClass('lazy').addClass('resp_imp');;
+          }
+        }
+      }
+    })
+  }
+
+  function switch_images_slide() {
+    if ($('body').width() < 769) {
+      $('.slide_resp').each(function() {
+        $(this).attr('src', $(this).attr('narrow'));
+      })
+    } else {
+      $('.slide_resp').each(function() {
+        $(this).attr('src', $(this).attr('wide'));
+      })
+    }
+  }
+
+  $(window).resize(function() {
+    clearTimeout($.data(this, 'scrollTimer'));
+    $.data(this, 'scrollTimer', setTimeout(function() {
+      switch_images_slide();
+    }, 200));
+
+  })
+
+})
+
+
+</script>
+
+
+  <div class="operator_nr_1">
+    Operatorul numărul 1 &icirc;n soluţii integrate
+  </div>
+
+
+  <div class="home_service_container">
+    <div class="home_icons_container">
+              <a class="home_icons_item_holder tv_icon" href="/Televiziune">
+          <div class="home_icon_item">
+            <img src="" class="lazy_img" lazy="/images/tv_icon.png">
+          </div>
+          <div class="home_icon_title">
+            Televiziune
+          </div>
+        </a>
+              <a class="home_icons_item_holder tv_icon" href="/Internet">
+          <div class="home_icon_item">
+            <img src="" class="lazy_img" lazy="/images/internet_icon.png">
+          </div>
+          <div class="home_icon_title">
+            Internet
+          </div>
+        </a>
+              <a class="home_icons_item_holder tv_icon" href="/Telefonie-Mobila">
+          <div class="home_icon_item">
+            <img src="" class="lazy_img" lazy="/images/mob_icon.png">
+          </div>
+          <div class="home_icon_title">
+            Telefonie Mobilă
+          </div>
+        </a>
+              <a class="home_icons_item_holder tv_icon" href="/Internet-mobil">
+          <div class="home_icon_item">
+            <img src="" class="lazy_img" lazy="/images/int_mob_icon.png">
+          </div>
+          <div class="home_icon_title">
+            Internet Mobil
+          </div>
+        </a>
+              <a class="home_icons_item_holder tv_icon" href="/Telefonie-Fixa">
+          <div class="home_icon_item">
+            <img src="" class="lazy_img" lazy="/images/fix_icon.png">
+          </div>
+          <div class="home_icon_title">
+            Telefonie Fixă
+          </div>
+        </a>
+          </div>
+  </div>
+
+  <div class="operator_nr_1" style="display: none;">
+    Prinde oferta LOVE
+  </div>
+
+  <div class="new_slide_home fixed" style="display: none;">
+
+    
+    <a class="item" href="https://moldtelecom.md/phones">
+      <div class="text">
+        
+        <div class="title">
+          Smartphone-uri la super preț, la conectare
+        </div>
+      </div>
+
+      <div class="image" style="
+        background: url('/images/pentru_site_1160x450_ro(1).jpg');
+        background-position: center;
+        background-size: cover;
+      "></div>
+
+      <div class="close"></div>
+    </a>
+
+    
+    <a class="item" href="https://moldtelecom.md/TV-in-rate">
+      <div class="text">
+        
+        <div class="title">
+          Smart TV 43&rdquo; Full HD Wi Fi la super preț, la conectare
+        </div>
+      </div>
+
+      <div class="image" style="
+        background: url('/images/TV-Rom(1).jpg');
+        background-position: center;
+        background-size: cover;
+      "></div>
+
+      <div class="close"></div>
+    </a>
+
+    
+    <a class="item" href="https://moldtelecom.md/ro/personal/news/226">
+      <div class="text">
+        
+        <div class="title">
+          Notebook 15,6&rdquo; Full HD, 4GB, 1TB la super preț, la conectare
+        </div>
+      </div>
+
+      <div class="image" style="
+        background: url('/images/Laptop-Rim.jpg');
+        background-position: center;
+        background-size: cover;
+      "></div>
+
+      <div class="close"></div>
+    </a>
+
+    
+    <a class="item" href="/Calculator">
+      <div class="text">
+        Comandă orice serviciu și ți-l livrăm acasă. Sună acum la 1180
+        <div class="title">
+          Livrare acasă
+        </div>
+      </div>
+
+      <div class="image" style="
+        background: url('/images/2a.jpg');
+        background-position: center;
+        background-size: cover;
+      "></div>
+
+      <div class="close"></div>
+    </a>
+
+        <!-- ORIGINAL VERSION -->
+    <!--
+      <div class="item">
+        <div class="text">
+          Comandă orice serviciu și ți-l livrăm acasă. Sună acum la 1180
+          <div class="title">
+            Livrare acasă
+          </div>
+        </div>
+        <a class="details" href="/Calculator">
+          Detalii
+        </a>
+        <div class="image" style="
+          background: url('/images/2a.jpg');
+          background-position: center;
+          background-size: cover;
+        "></div>
+
+        <div class="close"></div>
+      </div>
+    -->
+
+  </div>
+
+  <script src="/js/new_slide_home.js?v=2"></script>
+
+  <div class="slider_holder" id="slider3">
+    <div class="slide_container">
+      <div class="slider_box ofers_container">
+        <div class="slider_container list">
+                      <a class="item slide" href="/MyMoldtelecom" ondragstart="return false;" draggable="false">
+              <div class="offer_item">
+                <img class="resp_img2" src="" wide="/images/MyMoldtelecom_285x215.jpg" narrow="/images/MyMoldtelecom_285x215.jpg"/>
+              </div>
+            </a>
+                      <a class="item slide" href="/CloudCamera" ondragstart="return false;" draggable="false">
+              <div class="offer_item">
+                <img class="resp_img2" src="" wide="/images/CloudCamera_285x215.jpg" narrow="/images/CloudCamera_285x215.jpg"/>
+              </div>
+            </a>
+                      <a class="item slide" href="/Megogo" ondragstart="return false;" draggable="false">
+              <div class="offer_item">
+                <img class="resp_img2" src="" wide="/images/Megogo_285x215.jpg" narrow="/images/Megogo_285x215.jpg"/>
+              </div>
+            </a>
+                      <a class="item slide" href="/Multiscreen" ondragstart="return false;" draggable="false">
+              <div class="offer_item">
+                <img class="resp_img2" src="" wide="/images/Multiscreen_285x215.jpg" narrow="/images/Multiscreen_285x215.jpg"/>
+              </div>
+            </a>
+                      <a class="item slide" href="/SmartTV" ondragstart="return false;" draggable="false">
+              <div class="offer_item">
+                <img class="resp_img2" src="" wide="/images/SmartTV_285x215(1).jpg" narrow="/images/SmartTV_285x215(1).jpg"/>
+              </div>
+            </a>
+                      <a class="item slide" href="http://talk.unite.md/" ondragstart="return false;" draggable="false">
+              <div class="offer_item">
+                <img class="resp_img2" src="" wide="/images/Unite_Talk285x215.jpg" narrow="/images/Unite_Talk285x215.jpg"/>
+              </div>
+            </a>
+                  </div>
+      </div>
+    </div>
+    <div class="buttons_container">
+      <div class="prev_button">
+        <div class="left slide_a_l shadow2"><div></div></div>
+      </div>
+      <div class="next_button">
+        <div class="right slide_a_r shadow2" style=""><div></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slider_holder home_phones xmas_2019_tel" id="slider2">
+    <div class="text-block">
+      <div class="head">
+        Cea mai bună ofertă la smartphone-uri
+      </div>
+      <a href="/ro/phones">
+        <div class="details mob_bg">
+          Vezi toate
+        </div>
+      </a>
+    </div>
+    <div class="slide_container">
+      <div class="slider_box container">
+        <div class="slider_container list">
+                      <a class="item slide" href="/ro/personal/smartphone/52" ondragstart="return false;" draggable="false">
+              <img class="resp_img2" src="" wide="/images/note_8.png" narrow="/images/note_8.png"/>
+              <div class="plash">
+                <div class="price">
+                   150 <div class="lei_lun">lei<hr>lunar</div> <!--<sp>|</sp> 3899 <span>lei</span> -->
+                </div>
+                <div class="head2">
+                    Xiaomi Redmi Note 8
+                </div>
+              </div>
+              <div class="specs inline">
+                <div class="item">
+                  Ecran<br>
+                  6.3&#039;&#039;
+                </div>
+                <div class="item">
+                                      Camera
+                  <br>
+                  48+8MP+ 2MP+ 2MP
+                </div>
+                <div class="item">
+                  Memorie<br>
+                  4 GB / 64 GB
+                </div>
+              </div>
+            </a>
+                      <a class="item slide" href="/ro/personal/smartphone/51" ondragstart="return false;" draggable="false">
+              <img class="resp_img2" src="" wide="/images/redmi_a8.png" narrow="/images/redmi_a8.png"/>
+              <div class="plash">
+                <div class="price">
+                   90 <div class="lei_lun">lei<hr>lunar</div> <!--<sp>|</sp> 2499 <span>lei</span> -->
+                </div>
+                <div class="head2">
+                    Xiaomi Redmi 8A
+                </div>
+              </div>
+              <div class="specs inline">
+                <div class="item">
+                  Ecran<br>
+                  6.2&#039;&#039;
+                </div>
+                <div class="item">
+                                      Camera
+                  <br>
+                  12 MP
+                </div>
+                <div class="item">
+                  Memorie<br>
+                  2 GB / 32 GB
+                </div>
+              </div>
+            </a>
+                      <a class="item slide" href="/ro/personal/smartphone/48" ondragstart="return false;" draggable="false">
+              <img class="resp_img2" src="" wide="/images/Samsung-A_0014_Samsung-A10S-2.png" narrow="/images/Samsung-A_0014_Samsung-A10S-2.png"/>
+              <div class="plash">
+                <div class="price">
+                   120 <div class="lei_lun">lei<hr>lunar</div> <!--<sp>|</sp> 3099 <span>lei</span> -->
+                </div>
+                <div class="head2">
+                    Samsung Galaxy A10s
+                </div>
+              </div>
+              <div class="specs inline">
+                <div class="item">
+                  Ecran<br>
+                  6.2&#039;&#039;
+                </div>
+                <div class="item">
+                                      Cameră dual 
+                  <br>
+                  13 MP + 2 MP
+                </div>
+                <div class="item">
+                  Memorie<br>
+                  2 GB / 32 GB
+                </div>
+              </div>
+            </a>
+                      <a class="item slide" href="/ro/personal/smartphone/49" ondragstart="return false;" draggable="false">
+              <img class="resp_img2" src="" wide="/images/Samsung-A_0010_Samsung-A20S-1.png" narrow="/images/Samsung-A_0010_Samsung-A20S-1.png"/>
+              <div class="plash">
+                <div class="price">
+                   160 <div class="lei_lun">lei<hr>lunar</div> <!--<sp>|</sp> 3999 <span>lei</span> -->
+                </div>
+                <div class="head2">
+                    Samsung Galaxy A20s
+                </div>
+              </div>
+              <div class="specs inline">
+                <div class="item">
+                  Ecran<br>
+                  6.5&#039;&#039;
+                </div>
+                <div class="item">
+                                      Cameră triplă
+                  <br>
+                  13 MP + 8 MP + 5 MP
+                </div>
+                <div class="item">
+                  Memorie<br>
+                  3 GB / 32 GB
+                </div>
+              </div>
+            </a>
+                      <a class="item slide" href="/ro/personal/smartphone/50" ondragstart="return false;" draggable="false">
+              <img class="resp_img2" src="" wide="/images/a30(1).png" narrow="/images/a30(1).png"/>
+              <div class="plash">
+                <div class="price">
+                   190 <div class="lei_lun">lei<hr>lunar</div> <!--<sp>|</sp> 4698 <span>lei</span> -->
+                </div>
+                <div class="head2">
+                    Samsung Galaxy A30s
+                </div>
+              </div>
+              <div class="specs inline">
+                <div class="item">
+                  Ecran<br>
+                  6.4&#039;&#039;
+                </div>
+                <div class="item">
+                                      Cameră triplă
+                  <br>
+                  25 MP+8MP+ 5MP
+                </div>
+                <div class="item">
+                  Memorie<br>
+                  3 GB / 32 GB
+                </div>
+              </div>
+            </a>
+                  </div>
+      </div>
+    </div>
+    <div class="buttons_container">
+      <div class="prev_button">
+        <div class="left slide_a_l shadow2"><div></div></div>
+      </div>
+      <div class="next_button">
+        <div class="right slide_a_r shadow2" style=""><div></div></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+
+    $(document).ready(function() {
+
+      function resize_oferte_banner() {
+        if($(window).outerWidth() < 480) {
+          servicii_slider.slides_per_page = 1;
+        } else if($(window).outerWidth() < 640) {
+          servicii_slider.slides_per_page = 2;
+        } else if($(window).outerWidth() < 1000) {
+          servicii_slider.slides_per_page = 3;
+        } else {
+          servicii_slider.slides_per_page = 4;
+        }
+        servicii_slider.onresize();
+      }
+
+      function resize_phones_banner() {
+        if($(window).outerWidth() < 480) {
+          phone_slider.slides_per_page = 1;
+        } else if($(window).outerWidth() < 1000) {
+          phone_slider.slides_per_page = 2;
+        } else {
+          phone_slider.slides_per_page = 3;
+        }
+        phone_slider.onresize();
+      }
+
+      var phone_slider = new Object();
+      //create_slide (item, slider_box_object, slides_per_page = 1, animation_time = 200, animation_interval = 3000, autoplay = 1/0)
+      create_slide(phone_slider, $('#slider2'), 3, 200, 5000, 0, resize_phones_banner);
+
+      var servicii_slider = new Object();
+      //create_slide (item, slider_box_object, slides_per_page = 1, animation_time = 200, animation_interval = 3000, autoplay = 1/0)
+      create_slide(servicii_slider, $('#slider3'), 4, 200, 5000, true, resize_oferte_banner);
+
+      var icon_servicii_slider = new Object();
+      //create_slide (item, slider_box_object, slides_per_page = 1, animation_time = 200, animation_interval = 3000, autoplay = 1/0)
+      create_slide(icon_servicii_slider, $('#slider4'), 1, 200, 5000, true);
+
+      $(window).resize(function() {
+        resize_oferte_banner();
+        resize_phones_banner();
+      })
+
+    })
+  </script>
+
+
+
+  <div class="section_title_container">
+    <div class="section_title">
+      <div>ştiri</div>
+    </div>
+  </div>
+
+
+
+  <div class="home_news_container">
+    <a href="/ro/personal/news/245">
+      <div class="home_news_item">
+        <img class="main_news_img lazy_img" src="" lazy="/images/Cover-585x295.jpg"/>
+        <div class="home_news_title">
+          Moldtelecom sprijină proiectul municipal Educație Online și va difuza lecții prin intermediul platformei de televiziune digitală
+        </div>
+        <div class="home_news_details details">
+          Detalii
+        </div>
+      </div>
+    </a>
+    <div class="home_news_list">
+              <a href="/ro/personal/news/243">
+          <div class="home_news_list_item">
+            <img class="news_mini_img lazy_img" src="" lazy="/images/Stire-logo.jpg"/>
+            <div class="news_title">
+              Unite &ndash; mulțumiri abonaților pentru cea mai mare creștere &icirc;n 2019, pe piața serviciilor de telefonie mobilă 
+              <div class="news_date">
+                15/04
+              </div>
+            </div>
+          </div>
+        </a>
+              <a href="/ro/personal/news/244">
+          <div class="home_news_list_item">
+            <img class="news_mini_img lazy_img" src="" lazy="/images/Cover.jpg"/>
+            <div class="news_title">
+              Abonament de telefonie mobilă gratuit pe viață, abonaților de internet fix Moldtelecom
+              <div class="news_date">
+                15/04
+              </div>
+            </div>
+          </div>
+        </a>
+              <a href="/ro/personal/news/241">
+          <div class="home_news_list_item">
+            <img class="news_mini_img lazy_img" src="" lazy="https://moldtelecom.md/images/Stire%20small.jpg"/>
+            <div class="news_title">
+              Donație de 500 000 lei din partea angajaților Moldtelecom pentru medici  și 50 GB pentru profesori, din partea comp...
+              <div class="news_date">
+                13/04
+              </div>
+            </div>
+          </div>
+        </a>
+              <a href="/ro/personal/news/242">
+          <div class="home_news_list_item">
+            <img class="news_mini_img lazy_img" src="" lazy="https://moldtelecom.md/images/MTC_cladirea_585x295(1).jpg"/>
+            <div class="news_title">
+              Concurs pentru ocuparea funcției de director general
+              <div class="news_date">
+                13/04
+              </div>
+            </div>
+          </div>
+        </a>
+            <a href="/ro/news_list">
+        <div class="home_news_all details">
+          toate știrile
+        </div>
+      </a>
+
+    </div>
+  </div>
+
+
+  <div class="section_title_container">
+    <div class="section_title">
+      <div>Video</div>
+    </div>
+  </div>
+
+  
+  <div class="home_news_container">
+    <div class="home_video">
+      <div class="home_video_item video">
+        <iframe id="videoArea" src="" frameborder="0" allow="autoplay; fullscreen" src1="https://www.youtube.com/embed/C7_-A5ysaRA"></iframe>
+      </div>
+    </div>
+    <div class="home_news_list video">
+              <div class="video_trigger1 home_video_list_item" data-video="https://www.youtube.com/embed/C7_-A5ysaRA">
+          <div class="video_img_holder news_mini_img">
+            <img class="lazy_img" lazy="https://img.youtube.com/vi/C7_-A5ysaRA/0.jpg" src="">
+          </div>
+          <div class="news_title">Oamenii Moldtelecom, Mihai Iovu &ndash; Șef Serviciu operare și mentenanță rețele celulare</div>
+        </div>
+              <div class="video_trigger1 home_video_list_item" data-video="https://www.youtube.com/embed/bqCbMVbTpn4">
+          <div class="video_img_holder news_mini_img">
+            <img class="lazy_img" lazy="https://img.youtube.com/vi/bqCbMVbTpn4/0.jpg" src="">
+          </div>
+          <div class="news_title">Hai cu noi! Alege noile abonamente Fly și bucură-te de 50% reducere și dublu trafic internet mobil.</div>
+        </div>
+              <div class="video_trigger1 home_video_list_item" data-video="https://www.youtube.com/embed/taw-izgWMdU">
+          <div class="video_img_holder news_mini_img">
+            <img class="lazy_img" lazy="https://img.youtube.com/vi/taw-izgWMdU/0.jpg" src="">
+          </div>
+          <div class="news_title">Internet Oriunde. Nelimitat. Modem 4G+ cadou. Unite - Oferta de Primăvară</div>
+        </div>
+              <div class="video_trigger1 home_video_list_item" data-video="https://www.youtube.com/embed/WJdD-laGY5I">
+          <div class="video_img_holder news_mini_img">
+            <img class="lazy_img" lazy="https://img.youtube.com/vi/WJdD-laGY5I/0.jpg" src="">
+          </div>
+          <div class="news_title">Experiență Wi Fi acasă cum n-ai mai vazut</div>
+        </div>
+            <a href="https://www.youtube.com/channel/UC7ETXBNXYyQP_FnzeXKlwEQ" style="position: relative; margin-top: 10px;">
+        <div class="home_news_all details">
+          Vezi toate
+        </div>
+      </a>
+    </div>
+  </div>
+
+
+<script>
+
+  var initVideos = function() {
+    var videoArea = $("#videoArea"),
+    divs = $(".home_news_list.video .home_video_list_item");
+
+    $(".home_news_list.video .home_video_list_item:first-child").addClass('active');
+
+    divs.click(function(ev) {
+      if(!$(this).hasClass('active')) {
+        divs.removeClass("active");
+        $(this).addClass("active");
+        ev.preventDefault();
+        videoArea.prop("src", $(this).data('video'));
+      }
+    });
+  };
+
+  // once the DOM is ready
+  $(function() {
+    initVideos();
+  });
+
+</script>
+
+<!--<script type="text/javascript" src="/js/home_video_new.js"></script>-->
+
+
+  <div class="section_title_container">
+    <div class="section_title">
+      <div>Util</div>
+    </div>
+  </div>
+
+
+  <div class="home_util_container">
+          <a href="https://achitari.moldtelecom.md/Pay">
+        <div class="home_util_item">
+          <img class="lazy_img" src="" lazy="/images/rein_icon.png">
+          <div class="util_text">
+             Re&icirc;ncărcare cont
+          </div>
+        </div>
+      </a>
+          <a href="/Factura-prin-email">
+        <div class="home_util_item">
+          <img class="lazy_img" src="" lazy="/images/mag_icon.png">
+          <div class="util_text">
+            Factura prin email
+          </div>
+        </div>
+      </a>
+          <a href="/ro/personal/Portare">
+        <div class="home_util_item">
+          <img class="lazy_img" src="" lazy="/images/port_icon.png">
+          <div class="util_text">
+             Portarea numărului
+          </div>
+        </div>
+      </a>
+          <a href="/Web-SMS">
+        <div class="home_util_item">
+          <img class="lazy_img" src="" lazy="/images/sms_icon.png">
+          <div class="util_text">
+            Web SMS
+          </div>
+        </div>
+      </a>
+      </div>
+
+  
+
+<!-- Calculator -->
+<!-- Calculator -->
+
+<div class="footer_holder">
+  <div class="footer_containre">
+  <div class="footer1">
+    <img class="footer_mtc_logo lazy_img" src="" lazy="/images/top_logo.png"/>
+    <a href="/ro/personal/contacte" class="no_deco">
+      <div class="contact_us">
+        <img class="lazy_img" src="" lazy="/images/contact_us.png"/>
+        <div>
+          Contacte
+        </div>
+      </div>
+    </a>
+    <a href="/ro/personal/magazine" class="no_deco">
+      <div class="find_us">
+        <img class="lazy_img" src="" lazy="/images/find_us.png"/>
+        <div>
+          Magazine
+        </div>
+      </div>
+    </a>
+    <a href="/ro/personal/licitatii_list" class="no_deco">
+      <div class="find_us">
+        <img class="lazy_img" src="" lazy="/images/licitation_ic_home.png"/>
+        <div>
+          Licitații
+        </div>
+      </div>
+    </a>
+
+    <div class="footer_right" style="margin-top: 6px;">
+      <!--Esti client Moldtelecom?-->
+      <a href="/ro/MyMoldtelecom">
+        <div class="footer_mymoldtelecom">
+          <img class="lazy_img" src="" lazy="/images/my_mtc.png"/>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="footer2">
+        <div class="footer_quicklink">
+      <div class="quicklink_item first_fmenu">
+        Despre Moldtelecom
+      </div>
+            <a href="/ro/personal/Despre-companie">
+        <div class="quicklink_item">
+          Despre companie
+        </div>
+      </a>
+            <a href="/ro/personal/licitatii_list">
+        <div class="quicklink_item">
+          Licitații
+        </div>
+      </a>
+            <a href="/ro/personal/Consiliu_de_administrare">
+        <div class="quicklink_item">
+          Consiliul de administrare
+        </div>
+      </a>
+            <a href="/ro/personal/structura-organizatorica">
+        <div class="quicklink_item">
+          Structura organizatorica
+        </div>
+      </a>
+            <a href="/ro/cariera">
+        <div class="quicklink_item">
+          Cariera
+        </div>
+      </a>
+            <a href="/ro/personal/contacte">
+        <div class="quicklink_item">
+          Contacte
+        </div>
+      </a>
+            <a href="http://ivancea.moldtelecom.md/">
+        <div class="quicklink_item">
+          Centrul de instruire și agrement Ivancea
+        </div>
+      </a>
+            <a href="/ro/personal/interconectare">
+        <div class="quicklink_item">
+          Interconectare/operatori (parteneri)
+        </div>
+      </a>
+            <a href="/ro/personal/Internet-Exchange">
+        <div class="quicklink_item">
+          Internet Exchange
+        </div>
+      </a>
+            <a href="/ro/personal/freephone">
+        <div class="quicklink_item">
+          Freephone
+        </div>
+      </a>
+          </div>
+        <div class="footer_quicklink">
+      <div class="quicklink_item first_fmenu">
+        Legal
+      </div>
+            <a href="/servicii-administrative">
+        <div class="quicklink_item">
+          Servicii administrative
+        </div>
+      </a>
+            <a href="/ro/personal/Securitatea Datelor">
+        <div class="quicklink_item">
+          Securitatea datelor
+        </div>
+      </a>
+            <a href="/ro/personal/Parametri de calitate">
+        <div class="quicklink_item">
+          Parametrii de calitate
+        </div>
+      </a>
+            <a href="/ro/personal/fraude">
+        <div class="quicklink_item">
+          Protejează-te de fraude
+        </div>
+      </a>
+            <a href="/ro/personal/Reclamatii">
+        <div class="quicklink_item">
+          Cum depui o reclamație
+        </div>
+      </a>
+            <a href="/images/Declaratia%20privind%20Politica%20in%20domeniul%20calitatii_ed.7.pdf">
+        <div class="quicklink_item">
+          Declarația &icirc;n domeniul calității
+        </div>
+      </a>
+            <a href="/images/Certificat%20SMC%20ISO%209001-2015.pdf">
+        <div class="quicklink_item">
+          Certificat de conformitate a SMC
+        </div>
+      </a>
+            <a href="/ro/personal/Rapoarte">
+        <div class="quicklink_item">
+          Rapoarte
+        </div>
+      </a>
+            <a href="/files/Spatii%20libere%20aprobate%20la%20Consiliul%20MTC.pdf">
+        <div class="quicklink_item">
+          Locațiune
+        </div>
+      </a>
+          </div>
+        <div class="footer_quicklink">
+      <div class="quicklink_item first_fmenu">
+        Util
+      </div>
+            <a href="/ro/personal/Ghidurile-utilizatorului">
+        <div class="quicklink_item">
+          Ghidurile utilizatorului
+        </div>
+      </a>
+            <a href="/ro/personal/Conditii_contractuale">
+        <div class="quicklink_item">
+          Condiții contractuale
+        </div>
+      </a>
+            <a href="/ro/personal/modalitati_achitare">
+        <div class="quicklink_item">
+          Modalități de achitare
+        </div>
+      </a>
+            <a href="/ro/personal/Divertisment">
+        <div class="quicklink_item">
+          Divertisment
+        </div>
+      </a>
+            <a href="/Intrebari-frecvente">
+        <div class="quicklink_item">
+          &Icirc;ntrebări frecvente
+        </div>
+      </a>
+            <a href="/ro/personal/speedtest">
+        <div class="quicklink_item">
+          Speedtest
+        </div>
+      </a>
+            <a href="/ro/personal/acoperire-3g">
+        <div class="quicklink_item">
+          Hartă acoperire
+        </div>
+      </a>
+            <a href="/Eliberarea condițiilor tehnice și coordonarea proiectelor">
+        <div class="quicklink_item">
+          Eliberarea condițiilor tehnice si coordonarea proiectelor
+        </div>
+      </a>
+          </div>
+        <div class="footer_quicklink">
+      <div class="quicklink_item first_fmenu">
+        Linkuri utile
+      </div>
+            <a href="http://talk.unite.md/">
+        <div class="quicklink_item">
+          UniteTalk
+        </div>
+      </a>
+            <a href="/ro/personal/CloudCamera">
+        <div class="quicklink_item">
+          CloudCamera
+        </div>
+      </a>
+            <a href="/ro/personal/Multiscreen">
+        <div class="quicklink_item">
+          Multiscreen
+        </div>
+      </a>
+            <a href="/ro/personal/Multiscreen GO">
+        <div class="quicklink_item">
+          Multiscreen Go
+        </div>
+      </a>
+            <a href="/Factura-prin-email">
+        <div class="quicklink_item">
+          Factura prin email
+        </div>
+      </a>
+            <a href="https://achitari.moldtelecom.md/Pay">
+        <div class="quicklink_item">
+          Re&icirc;ncărcare cont
+        </div>
+      </a>
+            <a href="/ro/personal/SmartTV">
+        <div class="quicklink_item">
+          SmartTV
+        </div>
+      </a>
+            <a href="https://contulmeu.moldtelecom.md/SelfCare/pages/login/login.faces">
+        <div class="quicklink_item">
+          WEB MyMoldtelecom
+        </div>
+      </a>
+          </div>
+      </div>
+
+  <div class="footer3">
+    <!--<div class="social_bg"></div>-->
+    <div class="socials">
+      <div class="social_unite">
+        <img src="" class="lazy_img" lazy="/images/social_unite.png"/>
+        <div class="footer_social_item">
+          <a href="https://www.facebook.com/Unite3G/">
+            <img class="lazy_img" src="" lazy="/images/f.png"/>
+          </a>
+        </div>
+        <div class="footer_social_item">
+          <a href="https://ok.ru/unite3g">
+            <img class="lazy_img" src="" lazy="/images/ok.png"/>
+          </a>
+        </div>
+        <div class="footer_social_item">
+          <a href="https://www.instagram.com/unitemobile/">
+            <img class="lazy_img" src="" lazy="/images/i.png"/>
+          </a>
+        </div>
+        <div class="footer_social_item">
+          <a href="https://www.youtube.com/channel/UCMe8RFBd57HY647fTwWTIUw">
+            <img class="lazy_img" src="" lazy="/images/y.png"/>
+          </a>
+        </div>
+      </div>
+      <div class="right social_mtc">
+        <img src="" class="lazy_img" lazy="/images/social_mtc.png"/>
+        <div class="footer_social_item">
+          <a href="https://www.facebook.com/Moldtelecom/">
+            <img class="lazy_img" src="" lazy="/images/f.png"/>
+          </a>
+        </div>
+        <div class="footer_social_item">
+          <a href="https://ok.ru/moldtelecom">
+            <img class="lazy_img" src="" lazy="/images/ok.png"/>
+          </a>
+        </div>
+        <div class="footer_social_item">
+          <a href="https://www.instagram.com/moldtelecom.md/">
+            <img class="lazy_img" src="" lazy="/images/i.png"/>
+          </a>
+        </div>
+        <div class="footer_social_item">
+          <a href="https://www.youtube.com/channel/UC7ETXBNXYyQP_FnzeXKlwEQ ">
+            <img class="lazy_img" src="" lazy="/images/y.png"/>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="back_top_container">
+  <div class="arrow_container"><div class="top"></div></div>
+  Back to top
+</div>
+
+
+
+<div class="bottom_meniu">
+  <div class="item call"><a href="tel:1180"><img class="lazy_img" src="" lazy="/images/call_center.png"/></a></div>
+</div>
+
+</body>
+</html>
