@@ -61,16 +61,20 @@ ADDR = (HOST, PORT)
 client_socket = socket(AF_INET, SOCK_STREAM)
 client_socket.connect(ADDR)
 while True:
-    connection = client_socket.recv(24)
-    if connection.decode("utf8") != "hello" and connection.decode("utf8") != "password" and \
-            connection.decode("utf8") != "":
+    connection = client_socket.recv(24).decode("utf8")
+    if connection != "hello" and connection != "password" and connection != "":
         receive_thread = Thread(target=receive)
+        print(connection)
         receive_thread.start()
         tkinter.mainloop()  # Starts GUI execution.
-    elif connection.decode("utf8") == "hello":
+        break
+    elif connection == "hello":
         client_socket.send(bytes("hello", "utf8"))
-    elif connection.decode("utf8") == "password":
+        print(connection)
+    elif connection == "password":
         client_socket.send(bytes("1234", "utf8"))
+        print(connection)
     else:
         print("connection not established!!")
         break
+

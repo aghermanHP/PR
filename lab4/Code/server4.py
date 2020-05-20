@@ -16,6 +16,8 @@ def accept_incoming_connections():
                 client.send(bytes("Greetings from the cave! Now type your name and press enter!", "utf8"))
                 addresses[client] = client_address
                 Thread(target=handle_client, args=(client,)).start()
+                break
+                break
             elif connection == "hello":
                 print(connection)
                 client.send(bytes("password", "utf8"))
