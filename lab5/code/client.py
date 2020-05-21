@@ -1,7 +1,6 @@
+#!/usr/bin/env python3
 import socket
 import time
-import sys
-import re
 try:
     import os
     import tkinter as tk
@@ -20,7 +19,7 @@ style = ttk.Style(root)
 style.theme_use("clam")
 root.title('Text Editor')
 
-root.geometry('500x500')
+root.geometry('1000x1000')
 
 
 def call_server(file_name, file):
@@ -47,13 +46,12 @@ def c_open_file_old():
             ("All files", "*"),
             ("PNG", "*.png"),
             ("JPEG", "*.jpg")])
-    print(rep)
     try:
         with open(rep[1], "r") as f:
             x = (f.read())
             name = rep[1].split("/")
             print("name=", x)
-            tk.Label(root, text=x).grid(row=0)
+            tk.Label(root, text="file contain:\n"+x).grid(row=0)
             call_server(name[-1], x)
     except IndexError:
         print("No file selected")

@@ -61,8 +61,9 @@ ADDR = (HOST, PORT)
 client_socket = socket(AF_INET, SOCK_STREAM)
 client_socket.connect(ADDR)
 while True:
-    connection = client_socket.recv(24).decode("utf8")
-    if connection != "hello" and connection != "password" and connection != "":
+    connection = client_socket.recv(25).decode("utf8")
+    if connection != "hello" and connection != "password" and connection != "" and \
+            connection != "{authentiffication Error}":
         receive_thread = Thread(target=receive)
         print(connection)
         receive_thread.start()
@@ -74,7 +75,7 @@ while True:
     elif connection == "password":
         client_socket.send(bytes("1234", "utf8"))
         print(connection)
-    else:
-        print("connection not established!!")
+    elif connection == "{authentiffication Error}":
+        print("connection not established!!, wrong password")
         break
 

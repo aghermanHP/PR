@@ -13,7 +13,7 @@ def accept_incoming_connections():
             connection = client.recv(24).decode("utf8")
             if connection == "1234":
                 print(connection)
-                client.send(bytes("Greetings from the cave! Now type your name and press enter!", "utf8"))
+                client.send(bytes("Greetings from the cave!! Now type your name and press enter!", "utf8"))
                 addresses[client] = client_address
                 Thread(target=handle_client, args=(client,)).start()
                 break
@@ -22,7 +22,8 @@ def accept_incoming_connections():
                 print(connection)
                 client.send(bytes("password", "utf8"))
             else:
-                print("uthentiffication Error")
+                print("{authentiffication Error}")
+                client.send(bytes("{authentiffication Error}", "utf8"))
                 break
 def handle_client(client):  # Takes client socket as argument.
     """Handles a single client connection."""
