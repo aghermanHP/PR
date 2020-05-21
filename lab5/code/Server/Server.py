@@ -18,4 +18,3 @@ while True:
 
         data, addr = sock.recvfrom(10024)
         f.write(data)
-
